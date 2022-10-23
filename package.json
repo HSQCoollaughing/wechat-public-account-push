@@ -52,11 +52,6 @@
     "lint-staged": "^13.0.3",
     "mockdate": "^3.0.5",
     "vite": "^3.1.4"
-  },
-  "jest": {
-    "transform": {}
-  },
-  "lint-staged": {
-    "*.js": "eslint --fix"
   }
+
 }

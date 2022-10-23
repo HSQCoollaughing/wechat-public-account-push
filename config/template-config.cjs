@@ -24,15 +24,15 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      今天是我们相识的第{{love_day.DATA}}天
+      今天是我们相识的第{{know_day.DATA}}天
+
+      我们在一起已经有{{love_day.DATA}}天了
       
       {{birthday_message.DATA}}
       
       ---
       
-      {{moment_copyrighting.DATA}}
-      
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+   没回就是在学习,一直没回就是学傻了
     `
   },
   {
